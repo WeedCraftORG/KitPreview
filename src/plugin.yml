@@ -1,0 +1,17 @@
+name: KitPreview
+main: org.weedcraft.kitpreview.KitPreview
+version: 3.9.0
+depend: [Essentials]
+description: View a kit before you purchase it!
+author: [SomeKindOfStick,Regablith] 
+commands:
+  kitpreview:
+    description: View information on this plugin.
+    default: true
+    aliases: [kp]
+    usage: /<command> [reload]
+  previewkit:
+    description: Preview a kit
+    default: true
+    aliases: [pk, preview]
+    usage: /<command> [kit]
