@@ -1,0 +1,11 @@
+# Use & for color codes.
+# Use {KIT} for the kit name.
+prefix: "&6[KitPreview]"
+no-console: "&cOnly players may do that."
+no-permission: "&cYou do not have permission to do that"
+no-kit-supplied: "&7Please include a kit to preview."
+kit-doesnt-exist: "&cThat kit does not exist."
+preparing-preview: "&7Preparing preview..."
+previewing-kit: "&aYou are now previewing kit '{KIT}'"
+sign-title: "&1[PreviewKit]"
+preview-sign-created: "&aPreview sign created for kit '{KIT}'"
